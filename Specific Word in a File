@@ -1,0 +1,12 @@
+file=open("open.txt","r")
+content=file.read()
+words=content.split()
+word=input("Enter word:")
+count=0
+for w in words:
+    if word==w:
+        count+=1
+
+print(count)
+
+file.close()
