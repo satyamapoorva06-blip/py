@@ -1,0 +1,11 @@
+file=open("open.txt","r")
+content=file.read()
+word=content.split()
+longest=""
+for words in word:
+    if len(words)>len(longest):
+        longest=words
+
+print(longest)
+
+file.close()
