@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/satyamapoorva06-blip/py/tree/master/0389-find-the-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamapoorva06-blip/py/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/satyamapoorva06-blip/py/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1021-remove-outermost-parentheses](https://github.com/satyamapoorva06-blip/py/tree/master/1021-remove-outermost-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/satyamapoorva06-blip/py/tree/master/0884-uncommon-words-from-two-sentences) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/satyamapoorva06-blip/py/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/satyamapoorva06-blip/py/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
