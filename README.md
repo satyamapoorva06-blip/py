@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/satyamapoorva06-blip/py/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/satyamapoorva06-blip/py/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/satyamapoorva06-blip/py/tree/master/0409-longest-palindrome) |
@@ -24,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/satyamapoorva06-blip/py/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/satyamapoorva06-blip/py/tree/master/0389-find-the-difference) |
 ## Array
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/satyamapoorva06-blip/py/tree/master/0118-pascals-triangle) |
+| [0349-intersection-of-two-arrays](https://github.com/satyamapoorva06-blip/py/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamapoorva06-blip/py/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Counting
@@ -55,9 +58,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/satyamapoorva06-blip/py/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/satyamapoorva06-blip/py/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
