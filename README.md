@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/satyamapoorva06-blip/py/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/satyamapoorva06-blip/py/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/satyamapoorva06-blip/py/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/satyamapoorva06-blip/py/tree/master/0389-find-the-difference) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/satyamapoorva06-blip/py/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/satyamapoorva06-blip/py/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
