@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamapoorva06-blip/py/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/satyamapoorva06-blip/py/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/satyamapoorva06-blip/py/tree/master/1002-find-common-characters) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/satyamapoorva06-blip/py/tree/master/1624-largest-substring-between-two-equal-characters) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/satyamapoorva06-blip/py/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/satyamapoorva06-blip/py/tree/master/1021-remove-outermost-parentheses) |
 | [1408-string-matching-in-an-array](https://github.com/satyamapoorva06-blip/py/tree/master/1408-string-matching-in-an-array) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/satyamapoorva06-blip/py/tree/master/1624-largest-substring-between-two-equal-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
