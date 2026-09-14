@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/satyamapoorva06-blip/py/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/satyamapoorva06-blip/py/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/satyamapoorva06-blip/py/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/satyamapoorva06-blip/py/tree/master/0412-fizz-buzz) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamapoorva06-blip/py/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/satyamapoorva06-blip/py/tree/master/0709-to-lower-case) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/satyamapoorva06-blip/py/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/satyamapoorva06-blip/py/tree/master/0048-rotate-image) |
+| [0412-fizz-buzz](https://github.com/satyamapoorva06-blip/py/tree/master/0412-fizz-buzz) |
 ## Matrix
 |  |
 | ------- |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1408-string-matching-in-an-array](https://github.com/satyamapoorva06-blip/py/tree/master/1408-string-matching-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/satyamapoorva06-blip/py/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
