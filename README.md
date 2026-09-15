@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/satyamapoorva06-blip/py/tree/master/0048-rotate-image) |
+| [0258-add-digits](https://github.com/satyamapoorva06-blip/py/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/satyamapoorva06-blip/py/tree/master/0412-fizz-buzz) |
 ## Matrix
 |  |
@@ -118,5 +119,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/satyamapoorva06-blip/py/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/satyamapoorva06-blip/py/tree/master/0412-fizz-buzz) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/satyamapoorva06-blip/py/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
