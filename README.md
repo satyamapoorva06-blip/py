@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/satyamapoorva06-blip/py/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/satyamapoorva06-blip/py/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/satyamapoorva06-blip/py/tree/master/0412-fizz-buzz) |
+| [0551-student-attendance-record-i](https://github.com/satyamapoorva06-blip/py/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamapoorva06-blip/py/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/satyamapoorva06-blip/py/tree/master/0709-to-lower-case) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/satyamapoorva06-blip/py/tree/master/0884-uncommon-words-from-two-sentences) |
