@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/satyamapoorva06-blip/py/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/satyamapoorva06-blip/py/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/satyamapoorva06-blip/py/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satyamapoorva06-blip/py/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamapoorva06-blip/py/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/satyamapoorva06-blip/py/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/satyamapoorva06-blip/py/tree/master/1002-find-common-characters) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/satyamapoorva06-blip/py/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/satyamapoorva06-blip/py/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satyamapoorva06-blip/py/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamapoorva06-blip/py/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1002-find-common-characters](https://github.com/satyamapoorva06-blip/py/tree/master/1002-find-common-characters) |
 | [1408-string-matching-in-an-array](https://github.com/satyamapoorva06-blip/py/tree/master/1408-string-matching-in-an-array) |
