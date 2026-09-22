@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/satyamapoorva06-blip/py/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/satyamapoorva06-blip/py/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/satyamapoorva06-blip/py/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/satyamapoorva06-blip/py/tree/master/0412-fizz-buzz) |
 | [2544-alternating-digit-sum](https://github.com/satyamapoorva06-blip/py/tree/master/2544-alternating-digit-sum) |
 ## Matrix
