@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/satyamapoorva06-blip/py/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1408-string-matching-in-an-array](https://github.com/satyamapoorva06-blip/py/tree/master/1408-string-matching-in-an-array) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/satyamapoorva06-blip/py/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/satyamapoorva06-blip/py/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/satyamapoorva06-blip/py/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/satyamapoorva06-blip/py/tree/master/0412-fizz-buzz) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/satyamapoorva06-blip/py/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Number Theory
 |  |
 | ------- |
