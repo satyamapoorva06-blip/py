@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/satyamapoorva06-blip/py/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/satyamapoorva06-blip/py/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/satyamapoorva06-blip/py/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/satyamapoorva06-blip/py/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/satyamapoorva06-blip/py/tree/master/0238-product-of-array-except-self) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/satyamapoorva06-blip/py/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/satyamapoorva06-blip/py/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/satyamapoorva06-blip/py/tree/master/0392-is-subsequence) |
 ## Two Pointers
