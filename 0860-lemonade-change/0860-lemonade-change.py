@@ -22,3 +22,5 @@ class Solution(object):
                 else:
                     return False
         return True
+
+#Faltu question
