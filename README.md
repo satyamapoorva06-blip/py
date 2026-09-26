@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/satyamapoorva06-blip/py/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/satyamapoorva06-blip/py/tree/master/0389-find-the-difference) |
+| [0922-sort-array-by-parity-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0922-sort-array-by-parity-ii) |
 ## Array
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamapoorva06-blip/py/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/satyamapoorva06-blip/py/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/satyamapoorva06-blip/py/tree/master/0860-lemonade-change) |
+| [0922-sort-array-by-parity-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0922-sort-array-by-parity-ii) |
 | [1002-find-common-characters](https://github.com/satyamapoorva06-blip/py/tree/master/1002-find-common-characters) |
 | [1408-string-matching-in-an-array](https://github.com/satyamapoorva06-blip/py/tree/master/1408-string-matching-in-an-array) |
 ## Counting
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/satyamapoorva06-blip/py/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/satyamapoorva06-blip/py/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0922-sort-array-by-parity-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0922-sort-array-by-parity-ii) |
 ## Binary Search
 |  |
 | ------- |
