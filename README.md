@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/satyamapoorva06-blip/py/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/satyamapoorva06-blip/py/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/satyamapoorva06-blip/py/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/satyamapoorva06-blip/py/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/satyamapoorva06-blip/py/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satyamapoorva06-blip/py/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/satyamapoorva06-blip/py/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/satyamapoorva06-blip/py/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/satyamapoorva06-blip/py/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/satyamapoorva06-blip/py/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/satyamapoorva06-blip/py/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0350-intersection-of-two-arrays-ii) |
