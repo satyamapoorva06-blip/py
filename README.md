@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/satyamapoorva06-blip/py/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/satyamapoorva06-blip/py/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/satyamapoorva06-blip/py/tree/master/0561-array-partition) |
 | [0922-sort-array-by-parity-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0922-sort-array-by-parity-ii) |
 ## Array
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/satyamapoorva06-blip/py/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satyamapoorva06-blip/py/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0561-array-partition](https://github.com/satyamapoorva06-blip/py/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamapoorva06-blip/py/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/satyamapoorva06-blip/py/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/satyamapoorva06-blip/py/tree/master/0860-lemonade-change) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/satyamapoorva06-blip/py/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/satyamapoorva06-blip/py/tree/master/0409-longest-palindrome) |
+| [0561-array-partition](https://github.com/satyamapoorva06-blip/py/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/satyamapoorva06-blip/py/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/satyamapoorva06-blip/py/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/satyamapoorva06-blip/py/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/satyamapoorva06-blip/py/tree/master/0234-palindrome-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/satyamapoorva06-blip/py/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
