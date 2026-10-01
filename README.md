@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/satyamapoorva06-blip/py/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/satyamapoorva06-blip/py/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/satyamapoorva06-blip/py/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/satyamapoorva06-blip/py/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/satyamapoorva06-blip/py/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/satyamapoorva06-blip/py/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/satyamapoorva06-blip/py/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/satyamapoorva06-blip/py/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/satyamapoorva06-blip/py/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/satyamapoorva06-blip/py/tree/master/0412-fizz-buzz) |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/satyamapoorva06-blip/py/tree/master/0561-array-partition) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/satyamapoorva06-blip/py/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
