@@ -190,4 +190,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/satyamapoorva06-blip/py/tree/master/0062-unique-paths) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/satyamapoorva06-blip/py/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/satyamapoorva06-blip/py/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/satyamapoorva06-blip/py/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/satyamapoorva06-blip/py/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
