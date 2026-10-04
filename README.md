@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/satyamapoorva06-blip/py/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/satyamapoorva06-blip/py/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/satyamapoorva06-blip/py/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/satyamapoorva06-blip/py/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satyamapoorva06-blip/py/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/satyamapoorva06-blip/py/tree/master/0387-first-unique-character-in-a-string) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/satyamapoorva06-blip/py/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/satyamapoorva06-blip/py/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/satyamapoorva06-blip/py/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/satyamapoorva06-blip/py/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/satyamapoorva06-blip/py/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/satyamapoorva06-blip/py/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satyamapoorva06-blip/py/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/satyamapoorva06-blip/py/tree/master/0389-find-the-difference) |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/satyamapoorva06-blip/py/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/satyamapoorva06-blip/py/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/satyamapoorva06-blip/py/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/satyamapoorva06-blip/py/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/satyamapoorva06-blip/py/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/satyamapoorva06-blip/py/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -128,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/satyamapoorva06-blip/py/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satyamapoorva06-blip/py/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
@@ -139,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/satyamapoorva06-blip/py/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/satyamapoorva06-blip/py/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/satyamapoorva06-blip/py/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/satyamapoorva06-blip/py/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/satyamapoorva06-blip/py/tree/master/0412-fizz-buzz) |
 | [2544-alternating-digit-sum](https://github.com/satyamapoorva06-blip/py/tree/master/2544-alternating-digit-sum) |
 ## Matrix
