@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/satyamapoorva06-blip/py/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/satyamapoorva06-blip/py/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/satyamapoorva06-blip/py/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/satyamapoorva06-blip/py/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/satyamapoorva06-blip/py/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/satyamapoorva06-blip/py/tree/master/0412-fizz-buzz) |
 | [0551-student-attendance-record-i](https://github.com/satyamapoorva06-blip/py/tree/master/0551-student-attendance-record-i) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/satyamapoorva06-blip/py/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/satyamapoorva06-blip/py/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/satyamapoorva06-blip/py/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sorting
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/satyamapoorva06-blip/py/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/satyamapoorva06-blip/py/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/satyamapoorva06-blip/py/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/satyamapoorva06-blip/py/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/satyamapoorva06-blip/py/tree/master/0412-fizz-buzz) |
 | [2544-alternating-digit-sum](https://github.com/satyamapoorva06-blip/py/tree/master/2544-alternating-digit-sum) |
 ## Matrix
