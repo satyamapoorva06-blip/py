@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/satyamapoorva06-blip/py/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/satyamapoorva06-blip/py/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamapoorva06-blip/py/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/satyamapoorva06-blip/py/tree/master/0645-set-mismatch) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/satyamapoorva06-blip/py/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/satyamapoorva06-blip/py/tree/master/1002-find-common-characters) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/satyamapoorva06-blip/py/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/satyamapoorva06-blip/py/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/satyamapoorva06-blip/py/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/satyamapoorva06-blip/py/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0645-set-mismatch](https://github.com/satyamapoorva06-blip/py/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/satyamapoorva06-blip/py/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/satyamapoorva06-blip/py/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/satyamapoorva06-blip/py/tree/master/0561-array-partition) |
+| [0645-set-mismatch](https://github.com/satyamapoorva06-blip/py/tree/master/0645-set-mismatch) |
 | [0922-sort-array-by-parity-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0922-sort-array-by-parity-ii) |
 ## Array
 |  |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/satyamapoorva06-blip/py/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamapoorva06-blip/py/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/satyamapoorva06-blip/py/tree/master/0605-can-place-flowers) |
+| [0645-set-mismatch](https://github.com/satyamapoorva06-blip/py/tree/master/0645-set-mismatch) |
 | [0860-lemonade-change](https://github.com/satyamapoorva06-blip/py/tree/master/0860-lemonade-change) |
 | [0922-sort-array-by-parity-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0922-sort-array-by-parity-ii) |
 | [1002-find-common-characters](https://github.com/satyamapoorva06-blip/py/tree/master/1002-find-common-characters) |
