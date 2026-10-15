@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/satyamapoorva06-blip/py/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1408-string-matching-in-an-array](https://github.com/satyamapoorva06-blip/py/tree/master/1408-string-matching-in-an-array) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/satyamapoorva06-blip/py/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1859-sorting-the-sentence](https://github.com/satyamapoorva06-blip/py/tree/master/1859-sorting-the-sentence) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/satyamapoorva06-blip/py/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Bit Manipulation
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/satyamapoorva06-blip/py/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/satyamapoorva06-blip/py/tree/master/0645-set-mismatch) |
 | [0922-sort-array-by-parity-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0922-sort-array-by-parity-ii) |
+| [1859-sorting-the-sentence](https://github.com/satyamapoorva06-blip/py/tree/master/1859-sorting-the-sentence) |
 ## Array
 |  |
 | ------- |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/satyamapoorva06-blip/py/tree/master/0455-assign-cookies) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/satyamapoorva06-blip/py/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
