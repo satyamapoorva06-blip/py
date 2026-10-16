@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/satyamapoorva06-blip/py/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/satyamapoorva06-blip/py/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/satyamapoorva06-blip/py/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/satyamapoorva06-blip/py/tree/master/0205-isomorphic-strings) |
