@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/satyamapoorva06-blip/py/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/satyamapoorva06-blip/py/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/satyamapoorva06-blip/py/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/satyamapoorva06-blip/py/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0922-sort-array-by-parity-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/satyamapoorva06-blip/py/tree/master/1331-rank-transform-of-an-array) |
 | [1859-sorting-the-sentence](https://github.com/satyamapoorva06-blip/py/tree/master/1859-sorting-the-sentence) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/satyamapoorva06-blip/py/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/satyamapoorva06-blip/py/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/satyamapoorva06-blip/py/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/satyamapoorva06-blip/py/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0860-lemonade-change](https://github.com/satyamapoorva06-blip/py/tree/master/0860-lemonade-change) |
 | [0922-sort-array-by-parity-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0922-sort-array-by-parity-ii) |
 | [1002-find-common-characters](https://github.com/satyamapoorva06-blip/py/tree/master/1002-find-common-characters) |
