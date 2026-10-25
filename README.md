@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/satyamapoorva06-blip/py/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/satyamapoorva06-blip/py/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/satyamapoorva06-blip/py/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/satyamapoorva06-blip/py/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/satyamapoorva06-blip/py/tree/master/0205-isomorphic-strings) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/satyamapoorva06-blip/py/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/satyamapoorva06-blip/py/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/satyamapoorva06-blip/py/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/satyamapoorva06-blip/py/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/satyamapoorva06-blip/py/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/satyamapoorva06-blip/py/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/satyamapoorva06-blip/py/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/satyamapoorva06-blip/py/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/satyamapoorva06-blip/py/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/satyamapoorva06-blip/py/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/satyamapoorva06-blip/py/tree/master/0263-ugly-number) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/satyamapoorva06-blip/py/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/satyamapoorva06-blip/py/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/satyamapoorva06-blip/py/tree/master/0412-fizz-buzz) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/satyamapoorva06-blip/py/tree/master/1945-sum-of-digits-of-string-after-convert) |
