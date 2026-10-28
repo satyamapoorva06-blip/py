@@ -271,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/satyamapoorva06-blip/py/tree/master/1859-sorting-the-sentence) |
+## Database
+|  |
+| ------- |
+| [0601-human-traffic-of-stadium](https://github.com/satyamapoorva06-blip/py/tree/master/0601-human-traffic-of-stadium) |
 <!---LeetCode Topics End-->
