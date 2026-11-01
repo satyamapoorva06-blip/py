@@ -1,16 +1,15 @@
 class Solution {
     public double trimMean(int[] arr) {
+        
         Arrays.sort(arr);
+        int n=arr.length;
+        int x=n/20;
 
-        int n =arr.length;
-        int remove =n/20;
+        double sum =0;
 
-        double sum=0;
-
-        for(int i=remove;i<n-remove;i++){
-            sum += arr[i];
+        for(int i=x;i<n-x;i++){
+            sum=sum+arr[i];
         }
-
-        return sum/(n-2 *remove);
-    }
+         return sum/(n-2 *x);
+}
 }
