@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyamapoorva06-blip/py/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/satyamapoorva06-blip/py/tree/master/1331-rank-transform-of-an-array) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/satyamapoorva06-blip/py/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1710-maximum-units-on-a-truck](https://github.com/satyamapoorva06-blip/py/tree/master/1710-maximum-units-on-a-truck) |
 | [1859-sorting-the-sentence](https://github.com/satyamapoorva06-blip/py/tree/master/1859-sorting-the-sentence) |
 ## Array
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/satyamapoorva06-blip/py/tree/master/1002-find-common-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/satyamapoorva06-blip/py/tree/master/1331-rank-transform-of-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/satyamapoorva06-blip/py/tree/master/1408-string-matching-in-an-array) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/satyamapoorva06-blip/py/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1710-maximum-units-on-a-truck](https://github.com/satyamapoorva06-blip/py/tree/master/1710-maximum-units-on-a-truck) |
 ## Counting
 |  |
