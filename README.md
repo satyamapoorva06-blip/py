@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/satyamapoorva06-blip/py/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/satyamapoorva06-blip/py/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/satyamapoorva06-blip/py/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyamapoorva06-blip/py/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/satyamapoorva06-blip/py/tree/master/1331-rank-transform-of-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/satyamapoorva06-blip/py/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/satyamapoorva06-blip/py/tree/master/0860-lemonade-change) |
 | [0905-sort-array-by-parity](https://github.com/satyamapoorva06-blip/py/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/satyamapoorva06-blip/py/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyamapoorva06-blip/py/tree/master/0977-squares-of-a-sorted-array) |
 | [1002-find-common-characters](https://github.com/satyamapoorva06-blip/py/tree/master/1002-find-common-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/satyamapoorva06-blip/py/tree/master/1331-rank-transform-of-an-array) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/satyamapoorva06-blip/py/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/satyamapoorva06-blip/py/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/satyamapoorva06-blip/py/tree/master/0860-lemonade-change) |
+| [0976-largest-perimeter-triangle](https://github.com/satyamapoorva06-blip/py/tree/master/0976-largest-perimeter-triangle) |
 | [1710-maximum-units-on-a-truck](https://github.com/satyamapoorva06-blip/py/tree/master/1710-maximum-units-on-a-truck) |
 ## Dynamic Programming
 |  |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/satyamapoorva06-blip/py/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/satyamapoorva06-blip/py/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/satyamapoorva06-blip/py/tree/master/0412-fizz-buzz) |
+| [0976-largest-perimeter-triangle](https://github.com/satyamapoorva06-blip/py/tree/master/0976-largest-perimeter-triangle) |
 | [2544-alternating-digit-sum](https://github.com/satyamapoorva06-blip/py/tree/master/2544-alternating-digit-sum) |
 ## Matrix
 |  |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/satyamapoorva06-blip/py/tree/master/0455-assign-cookies) |
+| [0976-largest-perimeter-triangle](https://github.com/satyamapoorva06-blip/py/tree/master/0976-largest-perimeter-triangle) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -287,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/satyamapoorva06-blip/py/tree/master/1114-print-in-order) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/satyamapoorva06-blip/py/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
