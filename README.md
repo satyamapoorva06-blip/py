@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/satyamapoorva06-blip/py/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/satyamapoorva06-blip/py/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/satyamapoorva06-blip/py/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/satyamapoorva06-blip/py/tree/master/0125-valid-palindrome) |
@@ -124,11 +125,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/satyamapoorva06-blip/py/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/satyamapoorva06-blip/py/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/satyamapoorva06-blip/py/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/satyamapoorva06-blip/py/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/satyamapoorva06-blip/py/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
