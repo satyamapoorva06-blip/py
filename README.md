@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/satyamapoorva06-blip/py/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/satyamapoorva06-blip/py/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/satyamapoorva06-blip/py/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/satyamapoorva06-blip/py/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/satyamapoorva06-blip/py/tree/master/0119-pascals-triangle-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/satyamapoorva06-blip/py/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/satyamapoorva06-blip/py/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/satyamapoorva06-blip/py/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/satyamapoorva06-blip/py/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/satyamapoorva06-blip/py/tree/master/0349-intersection-of-two-arrays) |
