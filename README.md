@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/satyamapoorva06-blip/py/tree/master/1408-string-matching-in-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/satyamapoorva06-blip/py/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1710-maximum-units-on-a-truck](https://github.com/satyamapoorva06-blip/py/tree/master/1710-maximum-units-on-a-truck) |
+| [1920-build-array-from-permutation](https://github.com/satyamapoorva06-blip/py/tree/master/1920-build-array-from-permutation) |
 ## Counting
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/satyamapoorva06-blip/py/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/satyamapoorva06-blip/py/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/satyamapoorva06-blip/py/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/satyamapoorva06-blip/py/tree/master/1920-build-array-from-permutation) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/satyamapoorva06-blip/py/tree/master/1945-sum-of-digits-of-string-after-convert) |
 ## Number Theory
 |  |
