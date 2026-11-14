@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/satyamapoorva06-blip/py/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/satyamapoorva06-blip/py/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/satyamapoorva06-blip/py/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/satyamapoorva06-blip/py/tree/master/0205-isomorphic-strings) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/satyamapoorva06-blip/py/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/satyamapoorva06-blip/py/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/satyamapoorva06-blip/py/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/satyamapoorva06-blip/py/tree/master/0048-rotate-image) |
