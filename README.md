@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/satyamapoorva06-blip/py/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/satyamapoorva06-blip/py/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/satyamapoorva06-blip/py/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/satyamapoorva06-blip/py/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/satyamapoorva06-blip/py/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/satyamapoorva06-blip/py/tree/master/0118-pascals-triangle) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/satyamapoorva06-blip/py/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/satyamapoorva06-blip/py/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/satyamapoorva06-blip/py/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/satyamapoorva06-blip/py/tree/master/0234-palindrome-linked-list) |
